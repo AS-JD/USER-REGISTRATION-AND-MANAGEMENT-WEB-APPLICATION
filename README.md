@@ -1,4 +1,4 @@
-# Project Name
+# Manage User
 
 A web application built using JSP, Servlets, Maven, that allows users to register, login, and manage a collection of users.
 
