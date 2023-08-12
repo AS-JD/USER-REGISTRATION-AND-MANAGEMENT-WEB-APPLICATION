@@ -3,7 +3,6 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: 127.0.0.1
--- Generation Time: Aug 12, 2023 at 11:13 PM
 -- Server version: 10.4.27-MariaDB
 -- PHP Version: 8.1.12
 
@@ -39,12 +38,7 @@ CREATE TABLE `users` (
 -- Dumping data for table `users`
 --
 
-INSERT INTO `users` (`id`, `useremail`, `userpsw`, `username`, `number`) VALUES
-(1, 'ali123@gmail.com', 'asma123@', 'ali', 126456),
-(6, 'asmajdidi@gmail.com', '135445', 'usesfs', 24),
-(7, 'asmajdidi@gmail.com', '135445', 'usesfs', 246456),
-(8, 'asmajdidi@gmail.com', '456jhjjl', 'skizo_art', 555),
-(11, 'njn@yughj.com', 'tyuty', 'asma__jdidi7*8', 7887);
+
 
 --
 -- Indexes for dumped tables
