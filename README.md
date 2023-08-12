@@ -13,8 +13,8 @@ A web application built using JSP, Servlets, Maven, that allows users to registe
 ## Introduction
 
 This web application provides a basic user registration and login system, along with CRUD operations for managing users . 
-Users can register, log in, view a list ofusers, insert  users, update existing entries,  delete entries
-and search.
+Users can register, log in, view a list of users, insert  users, update existing entries,  delete entries
+and search users.
 
 ## Technologies Used
 
