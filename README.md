@@ -37,7 +37,7 @@ and search users.
 
 To run this application locally, follow these steps:
 
-1. Clone the repository: `git@github.com:AS-JD/manage_user.git`
+1. Clone the repository: `git@github.com:AS-JD/USER-REGISTRATION-AND-MANAGEMENT-WEB-APPLICATION.git`
 2. Change for your connection credential
  String username = "root";
  String pwd = " ";
